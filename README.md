@@ -1,4 +1,4 @@
-# MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into \LaTeX{} Formulae for Improved Readability 🧮
+# MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into $LaTeX$ Formulae for Improved Readability 🧮
 
 ## Dataset
 The MathBridge dataset is available on huggingface🤗.
