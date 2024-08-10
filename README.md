@@ -1,16 +1,17 @@
-## Hi there 👋
+# MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into \LaTeX{} Formulae for Improved Readability 🧮
 
-<!--
-**MathBridge/MathBridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dataset
+The MathBridge dataset is available on huggingface🤗.
 
-Here are some ideas to get you started:
+- [Access the MathBridge Dataset on Hugging Face](https://huggingface.co/datasets/aaai25withanonymous/MathBridge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fine-tuned Models
+We have fine-tuned a range of models on the MathBridge. These models are available for download and use on Hugging Face.
+
+### Available Models:
+- **MathBridge T5 Small**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_T5_small)
+- **MathBridge T5 Base**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_T5_base)
+- **MathBridge T5 Large**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_T5_large)
+- **MathBridge BART Base**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_BART_base)
+- **MathBridge BART Large**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_BART_large)
+- **MathBridge mBART**: [Download](https://huggingface.co/aaai25withanonymous/MathBridge_mBART)
